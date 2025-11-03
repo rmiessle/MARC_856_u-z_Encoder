@@ -9,4 +9,4 @@ What it does:
 - Assumes that is an EZProxy URL
 - Encodes the proxied URL
 - Replaces /login?url=UTF8URL with /login?qurl=PERCENTENCODEDURL
-- Outputs a new updated .mrc file
+- Outputs a new updated .mrc file and CSV log file of changes
