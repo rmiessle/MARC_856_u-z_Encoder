@@ -1,5 +1,5 @@
 # MARC_856_u-z_Encoder
-Encodes URLs in .mrc files in 856 subfields U and Z
+Percent encodes EZProxy-ed URLs in .mrc files in 856 subfields U and Z
 
 Package requirements: urllib.parse, csv, threading, pymarc, tkinter
 
